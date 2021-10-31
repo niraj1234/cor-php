@@ -135,7 +135,7 @@ if($_REQUEST['dataString'] == "" ){
 
 }
 
-
+// This file is first version of corona API in PHP
 
 
 ?>
